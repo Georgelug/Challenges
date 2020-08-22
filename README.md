@@ -2,9 +2,9 @@
 
 This repository contains 3 folders:
 
-1. **Easy**: 
+1. **Easy**
     * contains problems that have Easy difficulty level.
-2. **Medium**: 
+2. **Medium**
     * contains problems that have medium difficulty level.
-3. **Hard**:
+3. **Hard**
     * contains problems that have Hard difficulty level.
